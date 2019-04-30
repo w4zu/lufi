@@ -1,4 +1,22 @@
 # lufi
+Qu'est-ce que lufi ? Alternative pour we transfer : 
+
+Disponible sur :  
+GNU/Linux, Mac OS X, Windows  
+Alternative pour:   
+WeTransfer  
+Version:   
+Logiciel en version stable (publié)  
+Langue:   
+Multilingue  
+Créateur(s):   
+Luc Didry   
+Licence(s):   
+Licence Publique Générale Affero (AGPL)  
+
+Demo : https://demo.lufi.io/   
+Toutes les infos sur :  https://framalibre.org/content/lufi
+
 #########################################################
                                                        
           Script d'installation de LUFI 1.0            
