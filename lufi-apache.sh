@@ -6,7 +6,7 @@
 # LUFI : https://git.framasoft.org/fiat-tux/hat-softwares/lufi 
 #        https://framapiaf.org/@framasky
 #		 https://fiat-tux.fr/2018/10/30/lufi-0-03-est-sorti/
-# Modifier par @w4zu pour apache 2.4   
+# Modifié par @w4zu pour apache 2.4   
 #set -xe
 VERSION="lufi-apache-v1.0"
 
@@ -32,7 +32,7 @@ echo -e "#                avec le moteur SQLite                  #"
 echo -e "#                                                       #"
 echo -e "#              Testé sur Debian 9.8 x64                 #"
 echo -e "#                      by @xhark                        #"
-echo -e "#           Modifier par @w4zu Pour apache 2.4          #"
+echo -e "#            Modifié par @w4zu Pour apache 2.4          #"
 echo -e "#                                                       #"
 echo -e "#########################################################"
 echo -e "                     $VERSION"
