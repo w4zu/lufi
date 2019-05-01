@@ -34,3 +34,8 @@ Article blogmotion by @xhark  : http://blogmotion.fr/systeme/script-installation
 domaine="lufi.yourdomain.net"
 
 WWW="/home/lufi"
+
+## Execution du script 
+```sh
+bash lufi-apache.sh
+```
