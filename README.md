@@ -17,6 +17,9 @@ Licence Publique Générale Affero (AGPL)
 Demo : https://demo.lufi.io/   
 Toutes les infos sur :  https://framalibre.org/content/lufi
 
+Script original by @xhark  : https://github.com/blogmotion/bm-lufi-install
+Article blogmotion by @xhark  : http://blogmotion.fr/systeme/script-installation-lufi-17782
+
 #########################################################
                                                        
           Script d'installation de LUFI 1.0            
@@ -24,7 +27,7 @@ Toutes les infos sur :  https://framalibre.org/content/lufi
                                                        
               Testé sur Debian 9.8 x64                 
                       by @xhark                        
-           Modifier par @w4zu Pour apache 2.4          
+           Modifié par @w4zu Pour apache 2.4          
                                                        
 #########################################################
 # VARIABLES A MODIFIER
